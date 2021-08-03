@@ -11,10 +11,9 @@ My initial tech blog lived, and still lives abandoned, somewhere in the world wi
 At first thought, I was not sure if I should link to it, because you know (embarrased) 🙈   
 But I guess, there's nothing to be ashamed of here, right?
 
-Having said that, don't expect to find anything extra-ordinary [there](https://mekichablog.wordpress.com/)  
-I wrote those, mostly as learning notes for myself. And here, I hope to do the same, albeit with a broader
-perspective I can imagine.
-
+Having said that, don't expect to find anything extra-ordinary [there](https://mekichablog.wordpress.com/).  
+I wrote those, mostly as learning notes for myself.  
+And here, I hope to do the same, albeit with a broader perspective I can imagine.
 
 So here be notes and observations    
 mistakes and lessons     
