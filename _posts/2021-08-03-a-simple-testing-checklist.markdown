@@ -5,6 +5,7 @@ categories: testing best-practices
 ---
 
 > Code without tests is broken as designed.
+&mdash; Jacob Kaplan-Moss
 
 But testing is hard. Do you find it hard to know what to test in a piece of code? I know I do sometimes. Do you wish you had some mental or physical checklist to make it easier?
 
