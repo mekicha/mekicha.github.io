@@ -45,12 +45,12 @@ from polls.models import Question
 
 @pytest.fixture
 def create_question_table():
-    # setup
+    # setup: aka this code will run before the test
     with connection.schema_editor() as schema_editor:
         schema_editor.create_model(Question)
 
     yield
-    # teardown
+    # teardown: aka this will run after the test
     with connection.schema_editor() as schema_editor:
         schema_editor.delete_model(Question)
 ```
