@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Find first duplicate number in an array with minimal index"
+title: "Find first non-repeating character in a string"
 categories: python algorithm interview
 ---
 
